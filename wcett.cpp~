@@ -1,0 +1,25 @@
+#include "wcett.h"
+
+int main() {
+  Path a(MAX), b(MAX), c(MAX);
+  
+  a.initialize();
+  b.initialize();
+  c.initialize();
+  //cout << a.size() << endl;
+      float res0, res1, res2, res3;
+  res0 = weight(a);
+  res1 = weight(b);
+  res2 = weight(a+c);
+  res3 = weight(b+c);
+  //  for (int i = 0; i < MAX; ++i) {
+    //cout << "a[" << i << "]: " << &a[i] << " " << a[i].ett << " " << a[i].chnl << endl;
+    //cout << "b[" << i << "]: " << &b[i] << " " << b[i].ett << " " << b[i].chnl << endl;
+    //cout << "c[" << i << "]: " << &c[i] << " " << c[i].ett << " " << c[i].chnl << endl;
+  //  }//cout << res0 << endl << res1 << endl << res2 << endl << res3 << endl;
+  
+  __ESBMC_assume(res0 >= res1);
+  __ESBMC_assert(res2 >= res3, "Right-isotonicity violated!");
+        
+  return 0;
+}

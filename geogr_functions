@@ -1,0 +1,66 @@
+#ifndef __H_GEOGR_FUNCTIONS_
+#define __H_GEOGR_FUNCTIONS_
+
+#include <cassert>
+
+void initialize() {
+  Node<int> dest;
+
+  //  LINK_TYPE::src = src;
+  LINK_TYPE::dest = dest;
+}
+
+LINK_TYPE createLink() {
+  Node<int> start, end, src;
+  LINK_TYPE res(start, end);
+  res.setSrc(src);
+  //  res.start = start;
+  //  res.end = end;
+
+  return res;
+}
+
+template<class T>
+LINK_TYPE createLink(Node<T> start) {
+  Node<T> end, src;
+  LINK_TYPE res(start, end);
+  res.setSrc(src);
+
+  return res;
+}
+
+template<class T>
+LINK_TYPE createLink(Node<T> start, Node<T> end) {
+  Node<T> src;
+  LINK_TYPE res(start, end);
+  res.setSrc(src);
+
+  return res;
+}
+/*
+LINK_TYPE reverseLink(LINK_TYPE l) {
+  Node<int> start = l.getEnd();
+  Node<int> end = l.getStart();
+  Node<int> src = l.getSrc();
+  LINK_TYPE res(start, end);
+  res.setSrc(src);
+  //  res.start = l.end;
+  //  res.end = l.start;
+
+  return res;
+}
+*/
+template<class T>
+LINK_TYPE *createPath(unsigned num) {
+  LINK_TYPE *res;
+  assert(num > 0);
+  res[0] = createLink();
+  for (int i = 1; i < num; ++i) {
+    Node<T> node;
+    res[i] = createLink(res[i-1].getEnd(), node);
+  }
+
+  return res;
+}
+
+#endif // __H_GEOGR_FUNCTIONS_

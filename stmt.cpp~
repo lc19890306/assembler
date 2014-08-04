@@ -1,0 +1,29 @@
+#include "stmt.h"
+
+#include <fstream>
+
+void addHeader(const string funcHeader, const string header) {
+  string newFuncHeader = funcHeader + ".h";
+  string includeHeader = "#include \"" + header + "\"";
+  ifstream fin;
+  ofstream fout;
+
+  fin.open(funcHeader.c_str());
+  fout.open(newFuncHeader.c_str());
+
+  string str;
+  int i = 0;
+  while (getline(fin, str))  {
+    fout << str << endl;
+    if (i < 3) {
+      ++i;
+    }
+    if (i == 3) {
+      ++i;
+      fout << includeHeader << endl;
+    }
+  }
+
+  fout.close();
+  fin.close();
+}

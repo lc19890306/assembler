@@ -1,0 +1,32 @@
+#include <iostream>
+#include "geogr_types.h"
+#include "adv_greedy_forwarding_v1.h"
+
+using namespace std;
+
+int main() {/*
+  Node<int> a(0, 0), b(1, 2);
+  cout << a.getX() << "," << a.getY() << endl;
+  cout << b.getX() << "," << b.getY() << endl;
+  Node<int> t = a;
+  a = b;
+  b = t;
+  cout << a.getX() << "," << a.getY() << endl;
+  cout << b.getX() << "," << b.getY() << endl;
+	    */
+  GFLink<int> c;//, d(a, b, 10), e(1, 2, 3, 4, 5);
+  c.printLink();/*
+  d.printLink();
+  e.printLink();
+  ////////////////////////////////
+  GFLink<int> f = e.reverseLink();
+  ////////////////////////////////
+  f.printLink();
+
+  Link<int> g = e;
+  g.printLink();
+  Link<int> h = g.reverseLink();
+  h.printLink();
+		*/
+  return 0;
+}

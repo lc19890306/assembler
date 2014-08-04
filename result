@@ -1,0 +1,83 @@
+file test.cpp: Parsing
+Converting
+Type-checking test.cpp
+Generating GOTO Program
+GOTO program creation time: 0.532s
+GOTO program processing time: 0.016s
+Starting Bounded Model Checking
+Unwinding loop 0 iteration 1 file /home/changl/Dropbox/routing metric verification/backup/src/esbmc/Libraries//cmath line 28
+Unwinding loop 0 iteration 2 file /home/changl/Dropbox/routing metric verification/backup/src/esbmc/Libraries//cmath line 28
+Unwinding loop 0 iteration 3 file /home/changl/Dropbox/routing metric verification/backup/src/esbmc/Libraries//cmath line 28
+Unwinding loop 0 iteration 4 file /home/changl/Dropbox/routing metric verification/backup/src/esbmc/Libraries//cmath line 28
+Unwinding loop 0 iteration 5 file /home/changl/Dropbox/routing metric verification/backup/src/esbmc/Libraries//cmath line 28
+Unwinding loop 0 iteration 6 file /home/changl/Dropbox/routing metric verification/backup/src/esbmc/Libraries//cmath line 28
+Unwinding loop 0 iteration 7 file /home/changl/Dropbox/routing metric verification/backup/src/esbmc/Libraries//cmath line 28
+Unwinding loop 0 iteration 8 file /home/changl/Dropbox/routing metric verification/backup/src/esbmc/Libraries//cmath line 28
+Unwinding loop 0 iteration 9 file /home/changl/Dropbox/routing metric verification/backup/src/esbmc/Libraries//cmath line 28
+Unwinding loop 0 iteration 10 file /home/changl/Dropbox/routing metric verification/backup/src/esbmc/Libraries//cmath line 28
+size of program expression: 173 assignments
+Generated 69 VCC(s), 15 remaining after simplification
+Encoding remaining VCC(s) using bit-vector arithmetic
+Encoding to solver time: 0.002s
+Solving with SMT Solver Z3 v4.0
+Runtime decision procedure: 6.479s
+Building error trace
+
+Counterexample:
+
+State 1  thread 0
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>tag.Link::@vtable_pointer=&virtual_table::Link@Link,
+    .cpp::<signed_int>Link::start={ .cpp::<signed_int>Node::x=0, .cpp::<signed_int>Node::y=0 },
+    .cpp::<signed_int>Link::end={ .cpp::<signed_int>Node::x=0, .cpp::<signed_int>Node::y=0 },
+    .cpp::<signed_int>Link::src={ .cpp::<signed_int>Node::x=0, .cpp::<signed_int>Node::y=0 },
+    .cpp::<signed_int>tag.GFLink::@vtable_pointer=NULL,
+    .cpp::<signed_int>GFLink::quality=0 }
+
+State 2 file geogr_types.h line 57 thread 0
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>tag.Link::@vtable_pointer=&virtual_table::Link@Link,
+    .cpp::<signed_int>Link::start={ .cpp::<signed_int>Node::x=6144, .cpp::<signed_int>Node::y=4563 },
+    .cpp::<signed_int>Link::end={ .cpp::<signed_int>Node::x=0, .cpp::<signed_int>Node::y=0 },
+    .cpp::<signed_int>Link::src={ .cpp::<signed_int>Node::x=0, .cpp::<signed_int>Node::y=0 },
+    .cpp::<signed_int>tag.GFLink::@vtable_pointer=NULL,
+    .cpp::<signed_int>GFLink::quality=0 }
+
+State 3 file geogr_types.h line 58 thread 0
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>tag.Link::@vtable_pointer=&virtual_table::Link@Link,
+    .cpp::<signed_int>Link::start={ .cpp::<signed_int>Node::x=6144, .cpp::<signed_int>Node::y=4563 },
+    .cpp::<signed_int>Link::end={ .cpp::<signed_int>Node::x=0, .cpp::<signed_int>Node::y=0 },
+    .cpp::<signed_int>Link::src={ .cpp::<signed_int>Node::x=0, .cpp::<signed_int>Node::y=0 },
+    .cpp::<signed_int>tag.GFLink::@vtable_pointer=NULL,
+    .cpp::<signed_int>GFLink::quality=0 }
+
+State 4  thread 0
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>tag.Link::@vtable_pointer=&virtual_table::Link@GFLink,
+    .cpp::<signed_int>Link::start={ .cpp::<signed_int>Node::x=6144, .cpp::<signed_int>Node::y=4563 },
+    .cpp::<signed_int>Link::end={ .cpp::<signed_int>Node::x=0, .cpp::<signed_int>Node::y=0 },
+    .cpp::<signed_int>Link::src={ .cpp::<signed_int>Node::x=0, .cpp::<signed_int>Node::y=0 },
+    .cpp::<signed_int>tag.GFLink::@vtable_pointer=NULL,
+    .cpp::<signed_int>GFLink::quality=0 }
+
+State 5  thread 0
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>tag.Link::@vtable_pointer=&virtual_table::Link@GFLink,
+    .cpp::<signed_int>Link::start={ .cpp::<signed_int>Node::x=6144, .cpp::<signed_int>Node::y=4563 },
+    .cpp::<signed_int>Link::end={ .cpp::<signed_int>Node::x=0, .cpp::<signed_int>Node::y=0 },
+    .cpp::<signed_int>Link::src={ .cpp::<signed_int>Node::x=0, .cpp::<signed_int>Node::y=0 },
+    .cpp::<signed_int>tag.GFLink::@vtable_pointer=&virtual_table::GFLink@GFLink,
+    .cpp::<signed_int>GFLink::quality=0 }
+
+Violated property:
+  file adv_greedy_forwarding_v1.h line 11
+  assertion
+  this->cpp::<signed_int>GFLink::quality > 0
+
+VERIFICATION FAILED

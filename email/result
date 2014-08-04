@@ -1,0 +1,1513 @@
+file wcett.cpp: Parsing
+Converting
+Type-checking wcett.cpp
+Generating GOTO Program
+GOTO program creation time: 0.180s
+GOTO program processing time: 0.024s
+Starting Bounded Model Checking
+Unwinding loop 4 iteration 1 file wcett.h line 192
+Unwinding loop 4 iteration 2 file wcett.h line 192
+Unwinding loop 4 iteration 3 file wcett.h line 192
+Unwinding loop 4 iteration 4 file wcett.h line 192
+Unwinding loop 4 iteration 5 file wcett.h line 192
+Unwinding loop 4 iteration 6 file wcett.h line 192
+Unwinding loop 4 iteration 7 file wcett.h line 192
+Unwinding loop 4 iteration 8 file wcett.h line 192
+Unwinding loop 4 iteration 9 file wcett.h line 192
+Unwinding loop 4 iteration 10 file wcett.h line 192
+Unwinding loop 4 iteration 1 file wcett.h line 192
+Unwinding loop 4 iteration 2 file wcett.h line 192
+Unwinding loop 4 iteration 3 file wcett.h line 192
+Unwinding loop 4 iteration 4 file wcett.h line 192
+Unwinding loop 4 iteration 5 file wcett.h line 192
+Unwinding loop 4 iteration 6 file wcett.h line 192
+Unwinding loop 4 iteration 7 file wcett.h line 192
+Unwinding loop 4 iteration 8 file wcett.h line 192
+Unwinding loop 4 iteration 9 file wcett.h line 192
+Unwinding loop 4 iteration 10 file wcett.h line 192
+Unwinding loop 4 iteration 1 file wcett.h line 192
+Unwinding loop 4 iteration 2 file wcett.h line 192
+Unwinding loop 4 iteration 3 file wcett.h line 192
+Unwinding loop 4 iteration 4 file wcett.h line 192
+Unwinding loop 4 iteration 5 file wcett.h line 192
+Unwinding loop 4 iteration 6 file wcett.h line 192
+Unwinding loop 4 iteration 7 file wcett.h line 192
+Unwinding loop 4 iteration 8 file wcett.h line 192
+Unwinding loop 4 iteration 9 file wcett.h line 192
+Unwinding loop 4 iteration 10 file wcett.h line 192
+Unwinding loop 9 iteration 1 file wcett.h line 206
+Unwinding loop 9 iteration 2 file wcett.h line 206
+Unwinding loop 9 iteration 3 file wcett.h line 206
+Unwinding loop 9 iteration 4 file wcett.h line 206
+Unwinding loop 9 iteration 5 file wcett.h line 206
+Unwinding loop 9 iteration 6 file wcett.h line 206
+Unwinding loop 9 iteration 7 file wcett.h line 206
+Unwinding loop 9 iteration 8 file wcett.h line 206
+Unwinding loop 9 iteration 9 file wcett.h line 206
+Unwinding loop 9 iteration 10 file wcett.h line 206
+Unwinding loop 10 iteration 1 file wcett.h line 210
+Unwinding loop 10 iteration 2 file wcett.h line 210
+Unwinding loop 10 iteration 3 file wcett.h line 210
+Unwinding loop 9 iteration 1 file wcett.h line 206
+Unwinding loop 9 iteration 2 file wcett.h line 206
+Unwinding loop 9 iteration 3 file wcett.h line 206
+Unwinding loop 9 iteration 4 file wcett.h line 206
+Unwinding loop 9 iteration 5 file wcett.h line 206
+Unwinding loop 9 iteration 6 file wcett.h line 206
+Unwinding loop 9 iteration 7 file wcett.h line 206
+Unwinding loop 9 iteration 8 file wcett.h line 206
+Unwinding loop 9 iteration 9 file wcett.h line 206
+Unwinding loop 9 iteration 10 file wcett.h line 206
+Unwinding loop 10 iteration 1 file wcett.h line 210
+Unwinding loop 10 iteration 2 file wcett.h line 210
+Unwinding loop 10 iteration 3 file wcett.h line 210
+Unwinding loop 5 iteration 1 file wcett.h line 149
+Unwinding loop 5 iteration 2 file wcett.h line 149
+Unwinding loop 5 iteration 3 file wcett.h line 149
+Unwinding loop 5 iteration 4 file wcett.h line 149
+Unwinding loop 5 iteration 5 file wcett.h line 149
+Unwinding loop 5 iteration 6 file wcett.h line 149
+Unwinding loop 5 iteration 7 file wcett.h line 149
+Unwinding loop 5 iteration 8 file wcett.h line 149
+Unwinding loop 5 iteration 9 file wcett.h line 149
+Unwinding loop 5 iteration 10 file wcett.h line 149
+Unwinding loop 6 iteration 1 file wcett.h line 152
+Unwinding loop 6 iteration 2 file wcett.h line 152
+Unwinding loop 6 iteration 3 file wcett.h line 152
+Unwinding loop 6 iteration 4 file wcett.h line 152
+Unwinding loop 6 iteration 5 file wcett.h line 152
+Unwinding loop 6 iteration 6 file wcett.h line 152
+Unwinding loop 6 iteration 7 file wcett.h line 152
+Unwinding loop 6 iteration 8 file wcett.h line 152
+Unwinding loop 6 iteration 9 file wcett.h line 152
+Unwinding loop 6 iteration 10 file wcett.h line 152
+Unwinding loop 9 iteration 1 file wcett.h line 206
+Unwinding loop 9 iteration 2 file wcett.h line 206
+Unwinding loop 9 iteration 3 file wcett.h line 206
+Unwinding loop 9 iteration 4 file wcett.h line 206
+Unwinding loop 9 iteration 5 file wcett.h line 206
+Unwinding loop 9 iteration 6 file wcett.h line 206
+Unwinding loop 9 iteration 7 file wcett.h line 206
+Unwinding loop 9 iteration 8 file wcett.h line 206
+Unwinding loop 9 iteration 9 file wcett.h line 206
+Unwinding loop 9 iteration 10 file wcett.h line 206
+Unwinding loop 10 iteration 1 file wcett.h line 210
+Unwinding loop 10 iteration 2 file wcett.h line 210
+Unwinding loop 10 iteration 3 file wcett.h line 210
+Unwinding loop 7 iteration 1 file wcett.h line 149
+Unwinding loop 7 iteration 2 file wcett.h line 149
+Unwinding loop 7 iteration 3 file wcett.h line 149
+Unwinding loop 7 iteration 4 file wcett.h line 149
+Unwinding loop 7 iteration 5 file wcett.h line 149
+Unwinding loop 7 iteration 6 file wcett.h line 149
+Unwinding loop 7 iteration 7 file wcett.h line 149
+Unwinding loop 7 iteration 8 file wcett.h line 149
+Unwinding loop 7 iteration 9 file wcett.h line 149
+Unwinding loop 7 iteration 10 file wcett.h line 149
+Unwinding loop 8 iteration 1 file wcett.h line 152
+Unwinding loop 8 iteration 2 file wcett.h line 152
+Unwinding loop 8 iteration 3 file wcett.h line 152
+Unwinding loop 8 iteration 4 file wcett.h line 152
+Unwinding loop 8 iteration 5 file wcett.h line 152
+Unwinding loop 8 iteration 6 file wcett.h line 152
+Unwinding loop 8 iteration 7 file wcett.h line 152
+Unwinding loop 8 iteration 8 file wcett.h line 152
+Unwinding loop 8 iteration 9 file wcett.h line 152
+Unwinding loop 8 iteration 10 file wcett.h line 152
+Unwinding loop 9 iteration 1 file wcett.h line 206
+Unwinding loop 9 iteration 2 file wcett.h line 206
+Unwinding loop 9 iteration 3 file wcett.h line 206
+Unwinding loop 9 iteration 4 file wcett.h line 206
+Unwinding loop 9 iteration 5 file wcett.h line 206
+Unwinding loop 9 iteration 6 file wcett.h line 206
+Unwinding loop 9 iteration 7 file wcett.h line 206
+Unwinding loop 9 iteration 8 file wcett.h line 206
+Unwinding loop 9 iteration 9 file wcett.h line 206
+Unwinding loop 9 iteration 10 file wcett.h line 206
+Unwinding loop 10 iteration 1 file wcett.h line 210
+Unwinding loop 10 iteration 2 file wcett.h line 210
+Unwinding loop 10 iteration 3 file wcett.h line 210
+size of program expression: 5695 assignments
+Generated 3204 VCC(s), 422 remaining after simplification
+Encoding remaining VCC(s) using bit-vector arithmetic
+Encoding to solver time: 0.054s
+Solving with SMT Solver Z3 v4.0
+Runtime decision procedure: 11.409s
+Building error trace
+
+Counterexample:
+
+State 1 file wcett.h line 24 thread 0
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>Path::p={  }, .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 2 file wcett.h line 24 thread 0
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>Path::p={  }, .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 3 file wcett.h line 24 thread 0
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::b={ .cpp::<signed_int>Path::p={  }, .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 4 file wcett.h line 24 thread 0
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::b={ .cpp::<signed_int>Path::p={  }, .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 5 file wcett.h line 24 thread 0
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::c={ .cpp::<signed_int>Path::p={  }, .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 6 file wcett.h line 24 thread 0
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::c={ .cpp::<signed_int>Path::p={  }, .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 7 file wcett.h line 57 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 6
+<main invocation>
+----------------------------------------------------
+  cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_capacity$1=3 (3)
+
+State 8 file wcett.h line 191 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 6
+<main invocation>
+----------------------------------------------------
+  createPath::cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path))::1::capacity=3 (3)
+
+State 11 file wcett.h line 134 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 6
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=0 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 13 file wcett.h line 135 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 6
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 14 file wcett.h line 136 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 6
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 17 file wcett.h line 134 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 6
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=4294967048 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 19 file wcett.h line 135 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 6
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 20 file wcett.h line 136 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 6
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 23 file wcett.h line 134 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 6
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=4294967048 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 25 file wcett.h line 135 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 6
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 26 file wcett.h line 136 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 6
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::a={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=3 }
+
+State 27 file wcett.h line 57 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 7
+<main invocation>
+----------------------------------------------------
+  cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_capacity$1=3 (3)
+
+State 28 file wcett.h line 191 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 7
+<main invocation>
+----------------------------------------------------
+  createPath::cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path))::1::capacity=3 (3)
+
+State 31 file wcett.h line 134 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 7
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::b={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=0 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 33 file wcett.h line 135 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 7
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::b={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 34 file wcett.h line 136 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 7
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::b={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 37 file wcett.h line 134 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 7
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::b={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=4294967048 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 39 file wcett.h line 135 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 7
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::b={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 40 file wcett.h line 136 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 7
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::b={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 43 file wcett.h line 134 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 7
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::b={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=4294967048 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 45 file wcett.h line 135 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 7
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::b={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 46 file wcett.h line 136 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 7
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::b={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=3 }
+
+State 47 file wcett.h line 57 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 8
+<main invocation>
+----------------------------------------------------
+  cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_capacity$1=3 (3)
+
+State 48 file wcett.h line 191 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 8
+<main invocation>
+----------------------------------------------------
+  createPath::cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path))::1::capacity=3 (3)
+
+State 51 file wcett.h line 134 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 8
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::c={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=4294967048 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 53 file wcett.h line 135 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 8
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::c={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 54 file wcett.h line 136 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 8
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::c={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 57 file wcett.h line 134 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 8
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::c={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=4294967048 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 59 file wcett.h line 135 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 8
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::c={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 60 file wcett.h line 136 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 8
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::c={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 63 file wcett.h line 134 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 8
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::c={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=1623461540, .cpp::<signed_int>Link::chnl=4294967048 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 65 file wcett.h line 135 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 8
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::c={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=1623461540, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 66 file wcett.h line 136 thread 0
+cpp::createPath(ref_symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 8
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::c={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=1623461540, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=3,
+    .cpp::<signed_int>Path::_size=3 }
+
+State 68 file wcett.h line 204 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 0 }
+
+State 69 file wcett.h line 204 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::max=0 (0)
+
+State 70 file wcett.h line 205 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=0 (0)
+
+State 71 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=3 (3)
+
+State 73 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=161411 (161411)
+
+State 78 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 1 }
+
+State 79 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=3 (3)
+
+State 81 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=161431 (161431)
+
+State 86 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 2 }
+
+State 87 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=3 (3)
+
+State 89 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=186807969 (186807969)
+
+State 94 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 3 }
+
+State 95 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=3 (3)
+
+State 96 file wcett.h line 212 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::max=3 (3)
+
+State 97 file wcett.h line 214 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=93403986 (93403986)
+
+State 98 file wcett.h line 216 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 11
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::res0=15186f (15186)
+
+State 100 file wcett.h line 204 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 0 }
+
+State 101 file wcett.h line 204 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::max=0 (0)
+
+State 102 file wcett.h line 205 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=0 (0)
+
+State 103 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=3 (3)
+
+State 105 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=11 (11)
+
+State 110 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 1, 0 }
+
+State 111 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=3 (3)
+
+State 113 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=537134675 (537134675)
+
+State 118 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 2, 0 }
+
+State 119 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=3 (3)
+
+State 121 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=-1610142113 (2684825183)
+
+State 126 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 2, 1 }
+
+State 127 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=3 (3)
+
+State 128 file wcett.h line 212 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::max=2 (2)
+
+State 129 file wcett.h line 214 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=-805071056 (3489896240)
+
+State 130 file wcett.h line 216 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 12
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::res1=-26832f (-26832)
+
+State 131 file wcett.h line 57 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_capacity$1=3 (3)
+
+State 132 file wcett.h line 57 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_capacity$2=3 (3)
+
+State 133 file wcett.h line 147 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::capacity=6 (6)
+
+State 134 file wcett.h line 24 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::Path(this,unsigned_int)::cpp::<signed_int>Path::Path(this,unsigned_int)::capacity=6 (6)
+
+State 135 file wcett.h line 24 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={  }, .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 136 file wcett.h line 24 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={  }, .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 137 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$3=3 (3)
+
+State 141 file wcett.h line 134 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=0 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 143 file wcett.h line 135 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 144 file wcett.h line 136 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 145 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$3=3 (3)
+
+State 149 file wcett.h line 134 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=0 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 151 file wcett.h line 135 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 152 file wcett.h line 136 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 153 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$3=3 (3)
+
+State 157 file wcett.h line 134 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=4294967048 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 159 file wcett.h line 135 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 160 file wcett.h line 136 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=3 }
+
+State 161 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$3=3 (3)
+
+State 162 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$5=3 (3)
+
+State 166 file wcett.h line 134 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=nil } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=3 }
+
+State 168 file wcett.h line 135 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=3 }
+
+State 169 file wcett.h line 136 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=4 }
+
+State 170 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$5=3 (3)
+
+State 174 file wcett.h line 134 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=nil } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=4 }
+
+State 176 file wcett.h line 135 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=4 }
+
+State 177 file wcett.h line 136 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=5 }
+
+State 178 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$5=3 (3)
+
+State 182 file wcett.h line 134 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=1623461540, .cpp::<signed_int>Link::chnl=nil } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=5 }
+
+State 184 file wcett.h line 135 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=1623461540, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=5 }
+
+State 185 file wcett.h line 136 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=1623461540, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=6 }
+
+State 186 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$5=3 (3)
+
+State 187 file wcett.h line 155 thread 0
+<main invocation>
+----------------------------------------------------
+  c::main::$tmp::return_value_operator+$1={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=161411, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=20, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=186646538, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=1623461540, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=6 }
+
+State 189 file wcett.h line 204 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 0 }
+
+State 190 file wcett.h line 204 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::max=0 (0)
+
+State 191 file wcett.h line 205 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=0 (0)
+
+State 192 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 194 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=161411 (161411)
+
+State 199 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 1 }
+
+State 200 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 202 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=161431 (161431)
+
+State 207 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 2 }
+
+State 208 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 210 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=186807969 (186807969)
+
+State 215 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 3 }
+
+State 216 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 218 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=-1354203470 (2940763826)
+
+State 223 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 4 }
+
+State 224 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 226 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=-1354169678 (2940797618)
+
+State 231 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 5 }
+
+State 232 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 234 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=269291862 (269291862)
+
+State 239 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 6 }
+
+State 240 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 241 file wcett.h line 212 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::max=6 (6)
+
+State 242 file wcett.h line 214 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=134645934 (134645934)
+
+State 243 file wcett.h line 216 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 13
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::res2=-30546f (-30546)
+
+State 244 file wcett.h line 57 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_capacity$1=3 (3)
+
+State 245 file wcett.h line 57 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_capacity$2=3 (3)
+
+State 246 file wcett.h line 147 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::capacity=6 (6)
+
+State 247 file wcett.h line 24 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::Path(this,unsigned_int)::cpp::<signed_int>Path::Path(this,unsigned_int)::capacity=6 (6)
+
+State 248 file wcett.h line 24 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={  }, .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 249 file wcett.h line 24 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={  }, .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 250 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$3=3 (3)
+
+State 254 file wcett.h line 134 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=16 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 256 file wcett.h line 135 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=0 }
+
+State 257 file wcett.h line 136 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 258 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$3=3 (3)
+
+State 262 file wcett.h line 134 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=4294967048 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 264 file wcett.h line 135 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=1 }
+
+State 265 file wcett.h line 136 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 266 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$3=3 (3)
+
+State 270 file wcett.h line 134 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=0 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 272 file wcett.h line 135 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=2 }
+
+State 273 file wcett.h line 136 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=3 }
+
+State 274 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$3=3 (3)
+
+State 275 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$5=3 (3)
+
+State 279 file wcett.h line 134 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=nil } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=3 }
+
+State 281 file wcett.h line 135 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=3 }
+
+State 282 file wcett.h line 136 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=4 }
+
+State 283 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$5=3 (3)
+
+State 287 file wcett.h line 134 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=nil } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=4 }
+
+State 289 file wcett.h line 135 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=4 }
+
+State 290 file wcett.h line 136 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=5 }
+
+State 291 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$5=3 (3)
+
+State 295 file wcett.h line 134 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=1623461540, .cpp::<signed_int>Link::chnl=nil } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=5 }
+
+State 297 file wcett.h line 135 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=1623461540, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=5 }
+
+State 298 file wcett.h line 136 thread 0
+<main invocation>
+----------------------------------------------------
+  <signed_int>Path::operator+::cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::1::res={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=1623461540, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=6 }
+
+State 299 file wcett.h line 53 thread 0
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>Path::operator+(ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1),ref_symbol(identifier=cpp::<signed_int>tag.Path,#constant=1_1))::$tmp::return_value_size$5=3 (3)
+
+State 300 file wcett.h line 155 thread 0
+<main invocation>
+----------------------------------------------------
+  c::main::$tmp::return_value_operator+$2={ .cpp::<signed_int>Path::p={ { .cpp::<signed_int>Link::ett=11, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=537134664, .cpp::<signed_int>Link::chnl=1 }, 
+    { .cpp::<signed_int>Link::ett=-2147276788,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=-1541011439,
+    .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=33792, .cpp::<signed_int>Link::chnl=2 }, 
+    { .cpp::<signed_int>Link::ett=1623461540, .cpp::<signed_int>Link::chnl=2 } },
+    .cpp::<signed_int>Path::_capacity=6,
+    .cpp::<signed_int>Path::_size=6 }
+
+State 302 file wcett.h line 204 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 0, 0 }
+
+State 303 file wcett.h line 204 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::max=0 (0)
+
+State 304 file wcett.h line 205 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=0 (0)
+
+State 305 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 307 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=11 (11)
+
+State 312 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 1, 0 }
+
+State 313 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 315 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=537134675 (537134675)
+
+State 320 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 2, 0 }
+
+State 321 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 323 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=-1610142113 (2684825183)
+
+State 328 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 2, 1 }
+
+State 329 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 331 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=1143813744 (1143813744)
+
+State 336 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 2, 2 }
+
+State 337 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 339 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=1143847536 (1143847536)
+
+State 344 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 2, 3 }
+
+State 345 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 347 file wcett.h line 207 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=-1527658220 (2767309076)
+
+State 352 file wcett.h line 208 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::channel={ 0, 2, 4 }
+
+State 353 file wcett.h line 53 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::$tmp::return_value_size$1=6 (6)
+
+State 354 file wcett.h line 212 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::max=2 (2)
+
+State 355 file wcett.h line 212 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::max=4 (4)
+
+State 356 file wcett.h line 214 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  <signed_int>weight::cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path))::1::res=-763829108 (3531138188)
+
+State 357 file wcett.h line 216 thread 0
+cpp::<signed_int>weight(symbol(identifier=cpp::<signed_int>tag.Path)) at wcett.cpp line 14
+<main invocation>
+----------------------------------------------------
+  main::c::main::1::res3=-7028f (-7028)
+
+Violated property:
+  file wcett.cpp line 17
+  Right-isotonicity violated!
+  res2 >= res3
+
+VERIFICATION FAILED

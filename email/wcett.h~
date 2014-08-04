@@ -1,0 +1,219 @@
+#ifndef __H_WCETT_
+#define __H_WCETT_
+
+#include <iostream>
+#include <cassert>
+
+using namespace std;
+
+template<class T>
+struct Link {
+  T ett;
+  unsigned chnl;
+};
+
+template<class T>
+class Path {
+ public:
+ Path(): _capacity(0), _size(0) {
+//    p = NULL;
+    //    _capacity = 0;
+    //    _size = 0;
+  }
+
+ Path(unsigned capacity): _capacity(capacity), _size(0) {//cout << "before: " << p << endl;
+//        p = (struct Link *) malloc(_capacity * sizeof(struct Link));
+//    p = new Link[3];//cout << "after: " << p << endl;
+    //    _size = 0;
+  }
+
+  Path(const Path &path) {
+    //    p = (Link<T> *) malloc (_capacity * sizeof(Lint<T>));
+//    p = new Link[path._capacity];
+    _capacity = path._capacity;
+    _size = path._size;
+    if (p != NULL) {
+      for (int i = 0; i < _size; ++i) {
+	//	memcpy(&p[i], &path.p[i], sizeof(p[i]));
+	p[i] = path.p[i];/*
+			   p[i].ett = path.p[i].ett;
+			   p[i].chnl = path.p[i].chnl;*/
+      }
+    }
+  }
+
+  ~Path() {
+    //    _capacity = 0;
+    //    _size = 0;
+    //    free(p);
+//    delete []p;
+  }
+  
+  unsigned size() const {
+    return _size;
+  }
+
+  unsigned capacity() const {
+    return _capacity;
+  }
+
+  bool empty() const {
+    return (_size == 0) ? true : false;
+  }
+  /*  
+#if 0
+  void resize(unsigned newCapacity = 0) const {
+    if (newCapacity == 0) {
+      newCapacity = 2 * _capacity;
+    }
+    assert(newCapacity >= _capacity);
+    Link *newPath = new Link[newCapacity];
+    for (unsigned i = 0; i < _capacity; ++i) {
+      newPath[i].ett = p[i].ett;
+      newPath[i].chnl = p[i].chnl;
+    }
+    //    free(p);
+//    delete []p;
+//    p = newPath;
+    newPath = NULL;
+  }
+#endif
+  */
+  Link<T> at(int i) {
+    assert(i >= 0 && i < _size);
+    return this->p[i];
+  }
+
+  inline Link<T> &operator [] (int i) {
+    //    static Link<T> link;
+    assert(i >= 0 && i < _size);//assert(i < _capacity);
+    //    if (i < _size) {
+      return this->p[i];
+      /*    }
+    else if (i >= _capacity) {
+//      resize();
+    }
+    return link;*/
+  }
+  
+  const Link<T> &operator [] (int i) const {
+    //    static Link<T> link;
+    assert(i >= 0 && i < _size);
+    //    if (i < _size) {
+      return this->p[i];
+      /*    }
+    else if (i >= _capacity) {
+      //resize();
+    }
+    return link;*/
+  }
+
+  Link<T> front() {
+    return this->p[0];
+  }
+
+  const Link<T> front() const {
+    return this->p[0];
+  }
+
+  Link<T> back() {
+    return this->p[_size - 1];
+  }
+
+  const Link<T> back() const {
+    return this->p[_size - 1];
+  }
+
+  void push_back(const Link<T> &link) {
+    assert(_size < _capacity);
+    //    if (_size > _capacity) {
+      //      resize();
+    //    }
+    if (p+_size != NULL) {
+      //      memcpy(p+_size, &link, sizeof(link));
+      p[_size].ett = link.ett;
+      p[_size].chnl = link.chnl;
+      ++_size;
+    }
+  }
+
+  void pop_back() {
+    --_size;
+    assert(_size >= 0);
+    return;
+  }
+
+  friend Path operator + (const Path<T> &p1, const Path<T> &p2) {
+    unsigned capacity = p1.capacity() + p2.capacity();
+    Path<T> res(capacity);
+    for (unsigned i = 0; i < p1.size(); ++i) {
+      res.push_back(p1[i]);
+    }
+    for (unsigned i = 0; i < p2.size(); ++i) {
+      res.push_back(p2[i]);
+    }
+    return res;
+  }
+  /*
+    Path<T> operator = (const Path<T> &p2) {
+    _capacity = p2.capacity();
+    _size = p2.size();
+    Path<T> res(_capacity);
+    for (unsigned i = 0; i < _size; ++i) {
+    res.push_back(p2[i]);
+    }
+
+    return res;
+    }
+  */
+  void initialize() {//            srand((unsigned)time(NULL));
+    for (int i = 0; i < _capacity; ++i) {
+      Link<T> link;// = createLink();
+      //     __ESBMC_assume(0 < link.ett && link.ett < 100 && link.chnl < 3);
+      //      link.ett = rand()%100;//cout << link.ett << endl;
+      //      link.chnl = rand()%3;//cout << link.chnl << endl;      cout << p+_size << endl;
+      push_back(link);
+      //      cout << _capacity << _size << endl;
+      //cout << p+_size << endl;
+      /*	       p[i].ett = link.ett;
+		       p[i].chnl = link.chnl;
+		       ++_size;*/
+    }
+  }
+
+ private:
+  mutable Link<T> p[30];
+  unsigned _capacity;
+  unsigned _size;
+};
+
+void createPath(Path<int> &path) {
+  int capacity = path.capacity();
+  for (int i = 0; i < capacity; ++i) {
+    Link<int> link;
+    path.push_back(link);
+  }
+}
+
+#define MAX 3
+#define beta 0.5
+
+template<class T>
+float weight(Path<T> p) {
+  int i;
+  unsigned channel[MAX] = {0}, max = 0;
+  T res = 0;//cout<<"here\n";
+  for (i = 0; i < p.size(); ++i) {
+    res += p[i].ett;__ESBMC_assume(p[i].chnl < MAX);
+    ++channel[p[i].chnl];
+  }
+  for (i = 0; i < MAX; ++i) {
+    if (channel[i] > max)
+      max = channel[i];
+  }
+  res = (1 - beta) * res + beta * max;
+
+  return res;
+}
+
+#endif // __H_WCETT_

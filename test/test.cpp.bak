@@ -1,0 +1,58 @@
+#include <iostream>
+
+using namespace std;
+
+struct Link {
+  int ett;
+  int chnl;
+};
+
+class Path {
+public:
+  Path (): _capacity(0), _size(0) {
+    p = NULL;
+  }
+
+  Path(int capacity): _capacity(capacity), _size(0) {
+    p = new Link[_capacity];
+  }
+
+  Path(const Path &path) {
+    p = new Link[path._capacity];
+    _capacity = path._capacity;
+    _size = path._size;
+    if (p != NULL) {
+      for (int i = 0; i < _size; ++i) {
+	p[i] = path.p[i];
+      }
+    }
+  }
+
+  ~Path() {
+    delete []p;
+  }
+
+  void initialize() {
+    for (int i = 0; i < _capacity; ++i) {
+      Link link;
+      p[i].ett = link.ett;
+      p[i].chnl = link.chnl;
+      ++_size;
+    }
+  }
+
+private:
+  Link *p;
+  int _capacity;
+  int _size;
+};
+
+int main() {
+  Path a(3), b(3), c(3);
+
+  a.initialize();
+  b.initialize();
+  c.initialize();
+
+  return 0;
+}

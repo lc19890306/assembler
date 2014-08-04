@@ -1,0 +1,45 @@
+#ifndef __H_STMT_
+#define __H_STMT_
+
+#include "weightFunction.h"
+#include "strop.h"
+//#include "options.h"
+
+#define XXX "ESBMC"
+
+#define __H_IOSTREAM_ "#include <iostream>\n"
+#define __NAMESPACE_ "using namespace std;\n"
+
+#define __H_STDIO_ "#include <stdio.h>\n"
+
+//#define __H_CMATH_ "#include \"cmath\"\n"
+
+#define __H_GEOGR_FUNCS_ "#include \"geogr_functions.h\"\n"
+
+#define __H_LSDV_FUNCS_ "#include \"lsdv_functions.h\"\n"
+
+#define __MAIN_ "int main() {\n"
+
+#define __RETURN_ "  return 0;\n"
+
+#define __END_ "}\n"
+
+#define __INITIALIZE_ "  initialize();\n"
+
+void addHeader(const string funcHeader, const string header);
+string odd_symmetry_test(weightFunction_t weightFunction);
+string transitivity_test(weightFunction_t weightFunction);
+string strict_order_test(weightFunction_t weightFunction);
+string source_independence_test(weightFunction_t weightFunction);
+string isotonicity_test(weightFunction_t weightFunction, const string &pathLen = "20", const string &dataType = "int", const string &testType = "left");
+string monotonicity_test(weightFunction_t weightFunction, const string &pathLen = "20", const string &dataType = "int", const string &testType = "left");
+
+#endif // __H_STMT_
+
+
+
+
+
+
+
+

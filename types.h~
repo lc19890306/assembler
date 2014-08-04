@@ -1,0 +1,57 @@
+#ifndef __H_TYPES_
+#define __H_TYPES_
+
+#include <vector>
+
+template <typename T>
+struct Node {
+  T x; // x_axis;
+  T y; // y_axis;
+};
+
+template <typename T>
+class Link {
+ public:
+  Link() {}
+  Link(Node<T> start, Node<T> end) {
+    this->start = start;
+    this->end = end;
+  }
+  ~Link() {}
+  void setStart(Node<T> start) {
+    this->start = start;
+  }
+  Node<T> getStart() {
+    return this->start;
+  }
+  void setEnd(Node<T> end) {
+    this->end = end;
+  }
+  Node<T> getEnd() {
+    return this->end;
+  }
+  void setSrc(Node<T> src) {
+    this->src = src;
+  }
+  Node<T> getSrc() {
+    return src;
+  }
+  static Node<T> getDest() {
+    return dest;
+  }
+
+  static Node<T> dest;
+
+ private:
+  Node<T> start;
+  Node<T> end;
+  Node<T> src;
+};
+/*
+template <typename T>
+struct Link {
+  Node<T> start;
+  Node<T> end;
+};
+*/
+#endif // __H_TYPES_

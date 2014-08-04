@@ -1,0 +1,73 @@
+#ifndef __H_FUNCTIONS_
+#define __H_FUNCTIONS_
+
+#include "RPF.h"
+#include <cassert>
+
+void initialize() {
+  Node<int> dest;
+
+  //  Link<int>::src = src;
+  Link<int>::dest = dest;
+}
+
+Link<int> createLink() {
+  Node<int> start, end, src;
+  Link<int> res(start, end);
+  res.setSrc(src);
+  //  res.start = start;
+  //  res.end = end;
+
+  return res;
+}
+
+Link<int> createLink(Node<int> start) {
+  Node<int> end, src;
+  Link<int> res(start, end);
+  res.setSrc(src);
+
+  return res;
+}
+
+Link<int> createLink(Node<int> start, Node<int> end) {
+  Node<int> src;
+  Link<int> res(start, end);
+  res.setSrc(src);
+
+  return res;
+}
+
+Link<int> reverseLink(Link<int> l) {
+  Node<int> start = l.getEnd();
+  Node<int> end = l.getStart();
+  Node<int> src = l.getSrc();
+  Link<int> res(start, end);
+  res.setSrc(src);
+  //  res.start = l.end;
+  //  res.end = l.start;
+
+  return res;
+}
+
+Link<int> * createPath(unsigned num) {
+  Link<int>  *res;
+  assert(num > 0);
+  res[0] = createLink();
+  for (int i = 1; i < num; ++i) {
+    Node<int> node;
+    res[i] = createLink(res[i-1].getEnd(), node);
+  }
+
+  return res;
+}
+
+template<class T>
+void createPath(Path<T> &path) {
+  int capacity = path.capacity();
+  for (int i = 0; i < capacity; ++i) {
+    Link<T> link;
+    path.push_back(link);
+  }
+}
+
+#endif // __H_FUNCTIONS_

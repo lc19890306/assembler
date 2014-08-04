@@ -1,0 +1,113 @@
+#include "options.h"
+
+#define MAX 80
+
+void options::add(string opt) {
+  if (opts.find(opt) == opts.end()) {
+    opts[opt] = "true";
+  }
+}
+
+void options::addFuncName(string funcName) {
+  string key = "--funcname";
+  if (opts.find(key) == opts.end()) {
+    opts[key] = funcName;
+  }
+}
+
+string options::getFuncName() {
+  string res;
+  string key = "--funcname";
+  if (opts.find(key) != opts.end()) {
+    res = opts[key];
+  }
+  else {
+    res = "weight";
+  }
+
+  return res;
+}
+
+void options::addPhi(string phi) {
+  string key = "--phi";
+  if (opts.find(key) == opts.end()) {
+    opts[key] = phi;
+  }
+}
+
+string options::getPhi() {
+  string res;
+  string key = "--phi";
+  if (opts.find(key) != opts.end()) {
+    string realValue = opts[key];
+    int val = atoi(realValue.c_str());
+    char buffer[MAX];
+    sprintf(buffer, "%d", val);
+    string value = buffer;
+    assert(realValue == value && "the value of phi should be legal");
+    res = realValue;
+  }
+  else {
+    res = "0";
+  }
+
+  return res;
+}
+
+/*
+int options::getPhi() {
+  int res;
+  string key = "--phi";
+  if (opts.find(key) != opts.end()) {
+    string realValue = opts[key];
+    res = atoi(realValue.c_str());
+    char buffer[MAX];
+    sprintf(buffer, "%d", res);
+    string value = buffer;
+    assert(realValue == value && "the value of phi should be legal");
+  }
+  else {
+    res = 0;
+  }
+
+  return res;
+}
+*/
+
+void addPathLen(string pathLen) {
+  string key = "--pathlen";
+  if (opts.find(key) == opts.end()) {
+    opts[key] = pathLen;
+  }
+}
+
+string getPathLen() {
+  string res;
+  string key = "--pathlen";
+  if (opts.find(key) != opts.end()) {
+    string realValue = opts[key];
+    int val = atoi(realValue.c_str());
+    char buffer[MAX];
+    sprintf(buffer, "%d", val);
+    string value = buffer;
+    assert(realValue == value && "the length of path should be legal");
+    res = realValue;
+  }
+  else {
+    res = "20";
+  }
+
+  return res;
+}
+
+bool options::exist(string opt) {
+  bool res;
+  if (opts.find(opt) != opts.end()) {
+    res = true;
+  }
+  else {
+    res = false;
+  }
+
+  return res;
+}

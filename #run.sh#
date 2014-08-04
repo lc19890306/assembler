@@ -1,0 +1,8 @@
+
+
+if [ $# -eq 2 ]
+then
+    esbmc $1 -I ../backup/src/esbmc/Libraries/ --unwind $2 &> result
+else
+    esbmc $1 -I ../backup/src/esbmc/Libraries/ &> result
+fi

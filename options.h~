@@ -1,0 +1,33 @@
+#ifndef __H_OPTIONS_
+#define __H_OPTIONS_
+
+#include <iostream>
+#include <string>
+#include <vector>
+#include <map>
+#include <cstdlib>
+#include <cstdio>
+#include <climits>
+#include <cassert>
+
+using namespace std;
+
+class options {
+ public:
+  options() {}
+  ~options() {}
+  void add(string opt);
+  void addFuncName(string opt);
+  string getFuncName();
+  void addPhi(string phi);
+  string getPhi();
+  void addPathLen(string pathLen);
+  string getPathLen();
+  bool exist(string opt);
+ private:
+  map<string, string> opts;
+  //  string funcName;
+ };
+//#define __cplusplus_
+
+#endif // __H_OPTIONS_
